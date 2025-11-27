@@ -10,3 +10,15 @@
   <img align="center" alt="Bootstrap" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="Figma" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
 </div>
+
+
+<div align="center">
+
+  <!-- GitHub Stats -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+  <!-- Linguagens Mais Usadas -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=8&theme=tokyonight"/>
+
+</div>
+
